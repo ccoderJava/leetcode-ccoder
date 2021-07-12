@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ccoderjava.leetcodeccoder.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ccoderjava.leetcodeccoder.MyBundle
 
 class MyApplicationService {
 
